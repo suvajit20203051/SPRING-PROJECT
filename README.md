@@ -1,4 +1,4 @@
-# Spring Boot Application – spring_01
+# Spring Boot Application – spring_01   real time chat application
 
 This is a simple Spring Boot application built using Java and Maven. It serves as a starter template for building scalable, production-ready Spring-based applications.
 
